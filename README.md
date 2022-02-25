@@ -13,6 +13,11 @@
 
 ### Connect with me
 
+[<img align="center" src="img/instagram.svg" alt="Instagram" height="30" width="40" />][Instagram]
+[<img align="center" src="img/linkedin.svg" alt="Linkedin" height="30" width="40" />][Linkedin]
+[<img align="center" src="img/twitter.svg" alt="Twitter" height="30" width="40" />][Twitter]
+[<img align="center" src="img/stack-overflow.svg" alt="Stack-Overflow" height="30" width="40" />][Stack-Overflow]
+
 
 ### Language and Tools
 
@@ -32,5 +37,6 @@
 
 [website]: https://www.hungry5656.top
 [Twitter]: https://twitter.com/hungry5656
-[Instagram]: https://instagram.com/hungry5656
+[Instagram]: https://instagram.com/hungry5656_
 [Linkedin]: https://www.linkedin.com/in/sizhuo-sun-8529541b2/
+[Stack-Overflow]: https://stackoverflow.com/users/11640053/
