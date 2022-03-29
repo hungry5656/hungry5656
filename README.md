@@ -46,7 +46,7 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="img/vscode.svg" style="padding-right:10px;" />](https://code.visualstudio.com/)
 
 
-[website]: https://www.hungry5656.top
+[website]: https://www.hungry5656.com
 [Twitter]: https://twitter.com/hungry5656
 [Instagram]: https://instagram.com/hungry5656_
 [Linkedin]: https://www.linkedin.com/in/sizhuo-sun-8529541b2/
