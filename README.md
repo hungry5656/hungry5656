@@ -46,21 +46,21 @@
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=hungry5656&show_icons=true&theme=moltack&include_all_commits=true&card_width=400&rank_icon=github"
+    srcset="https://github-readme-stats.vercel.app/api?username=hungry5656&show_icons=true&theme=moltack&include_all_commits=true&card_width=500&rank_icon=github"
     media="(prefers-color-scheme: light)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=hungry5656&show_icons=true&theme=radical&include_all_commits=true&card_width=500&rank_icon=github&line_height=25"/>
 </picture>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hungry5656&hide=jupyter%20notebook&theme=radical&layout=compact&card_width=350"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hungry5656&hide=jupyter%20notebook&theme=radical&layout=compact&card_width=300"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hungry5656&hide=jupyter%20notebook&theme=moltack&layout=compact&card_width=350"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hungry5656&hide=jupyter%20notebook&theme=moltack&layout=compact&card_width=300"
     media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungry5656&hide=jupyter%20notebook&theme=radical&layout=compact&card_width=350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hungry5656&hide=jupyter%20notebook&theme=radical&layout=compact&card_width=300"/>
 </picture>
 
 ### Connect with me
