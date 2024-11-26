@@ -1,4 +1,9 @@
-# **Hi there** , I'm **Sizhuo (Henry)**
+# <img width="358" height="25" src="https://glitch-art.vercel.app/api/simple?word=Hi!%20I'm%20Henry%20(hungry5656)&font=Doto" /> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<div align="center">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=hungry5656.hungry5656" alt="visitors"/>
+
+</div>
 
 ```
 
@@ -20,6 +25,8 @@
 - - 🔲 Write some technical **[blogs]** 📂
 - 👀 Fun Fact: I love **Batman🦇**, **guitar🎸** and wanna try **Archery🏹**.
 - 🏃 Sports I love: **Cycling🚴**, **Badminton🏸**, **Basketball🏀**, **Formula 1🏎️🏁**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hungry5656&hide=jupyter%20notebook,html&theme=radical&layout=compact)
 
 ### Connect with me
 
