@@ -20,12 +20,12 @@
                                                                                        
 ```
 
-## I'm a first year master student studying **Software Engineering** at **CMU**
+## I'm a second year master student studying **Software Engineering** at **CMU**
 
 - 📝 I'm currenty working on my personal **[website]**!
-- 🌱 I'm currently learning *LangChain* and *LangGraph*, and some *express.js*.
-- 🚩 2024 Goals:
-- - 🔲 Learn some CUDA and LLMs 🌐
+- 🌱 I'm currently learning *Databases* and *Cloud Computing*, and some *AI*.
+- 🚩 2025 Goals:
+- - 🔲 Land a Full Time Job 🌐
 - - 🔲 Write some technical **[blogs]** 📂
 - 👀 Fun Fact: I love **Batman🦇**, **guitar🎸** and wanna try **Archery🏹**.
 - 🏃 Sports I love: **Cycling🚴**, **Badminton🏸**, **Basketball🏀**, **Formula 1🏎️🏁**
@@ -98,3 +98,4 @@
 [Linkedin]: https://www.linkedin.com/in/sizhuo-sun/
 [Stack-Overflow]: https://stackoverflow.com/users/11640053/
 [blogs]: https://blog.hungry5656.com
+
