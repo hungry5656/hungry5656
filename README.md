@@ -20,15 +20,11 @@
                                                                                        
 ```
 
-## I'm a second year master student studying **Software Engineering** at **CMU**
+## I'm a Software Engineer working on Backend, Cloud, and AI Infrastructure
 
-- 📝 I'm currently working on my Homelab!
-- 🌱 I'm currently learning *Kernel Development* and *Cloud Computing*, and some *AI*.
-- 🚩 2025 Goals:
-- - 🔲 Land a Full Time Job 🌐
-- - 🔲 Write some technical **[blogs]** 📂
+- 📝 I'm currently working on my Home Data Center! (Multi GPU Inference)
+- 🌱 I'm currently learning *Inference Engineering*.
 - 👀 Fun Fact: I love **Batman🦇**, **guitar🎸** and wanna try **Archery🏹**.
-- 🏃 Sports I love: **Cycling🚴**, **Badminton🏸**, **Basketball🏀**, **Formula 1🏎️🏁**
 
 <picture>
   <source
